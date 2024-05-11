@@ -1,3 +1,3 @@
 abstract  class RendezVous {
-private String date;
+protected String date;
 }
